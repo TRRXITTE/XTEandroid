@@ -23,7 +23,7 @@ import {
 
 import NetInfo from "@react-native-community/netinfo";
 
-import { prettyPrintAmount, Daemon } from 'traaittcash-wallet-backend';
+import { prettyPrintAmount, Daemon } from '@trrxitte/xte-wallet-backend';
 
 import Config from './Config';
 import ListItem from './ListItem';

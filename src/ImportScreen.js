@@ -13,7 +13,7 @@ import {
 import {
     importWalletFromSeed, BlockchainCacheApi, WalletBackend, WalletError,
     isValidMnemonic, isValidMnemonicWord,
-} from 'traaittcash-wallet-backend';
+} from '@trrxitte/xte-wallet-backend';
 
 import Config from './Config';
 

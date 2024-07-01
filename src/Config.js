@@ -4,7 +4,7 @@
 
 import { Platform } from 'react-native';
 
-import { MixinLimit, MixinLimits, Daemon } from 'traaittcash-wallet-backend';
+import { MixinLimit, MixinLimits, Daemon } from '@trrxitte/xte-wallet-backend';
 
 import {
     derivePublicKey, generateKeyDerivation, generateRingSignatures,

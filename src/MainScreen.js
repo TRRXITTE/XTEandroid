@@ -21,7 +21,7 @@ import {
 
 import NetInfo from "@react-native-community/netinfo";
 
-import { prettyPrintAmount, LogLevel } from 'traaittcash-wallet-backend';
+import { prettyPrintAmount, LogLevel } from '@trrxitte/xte-wallet-backend';
 
 import Config from './Config';
 

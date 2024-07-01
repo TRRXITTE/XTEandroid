@@ -12,7 +12,7 @@ import {
 
 import {
     validateAddresses, WalletErrorCode, validatePaymentID,
-} from 'traaittcash-wallet-backend';
+} from '@trrxitte/xte-wallet-backend';
 
 import { Button as RNEButton, Alert } from 'react-native';
 

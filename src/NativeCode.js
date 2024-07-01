@@ -5,7 +5,7 @@
 'use strict';
 
 import { NativeModules } from 'react-native';
-import { TransactionInput } from 'traaittcash-wallet-backend';
+import { TransactionInput } from '@trrxitte/xte-wallet-backend';
 
 export async function generateKeyImage(
     publicEphemeral,

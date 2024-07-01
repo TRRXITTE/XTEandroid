@@ -54,8 +54,7 @@
     "readable-stream": "3.4.0",
     "rn-nodeify": "^10.0.1",
     "stream-browserify": "^2.0.2",
-    "traaittplatform-crypto": "^3.1.5",
-    "traaittcash-wallet-backend": "^5.1.0",
+    "@trrxitte/xte-wallet-backend": "^0.0.4",
     "url": "~0.11.0",
     "vm-browserify": "1.1.0"
   },

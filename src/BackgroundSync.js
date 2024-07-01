@@ -6,7 +6,7 @@ import BackgroundFetch from 'react-native-background-fetch';
 
 import { AppState, Platform, PushNotificationIOS } from 'react-native';
 
-import { WalletBackend, LogLevel } from 'traaittcash-wallet-backend';
+import { WalletBackend, LogLevel } from '@trrxitte/xte-wallet-backend';
 
 import PushNotification from 'react-native-push-notification';
 

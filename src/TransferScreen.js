@@ -19,7 +19,7 @@ import { HeaderBackButton, StackActions } from 'react-navigation';
 
 import {
     validateAddresses, WalletErrorCode, validatePaymentID, prettyPrintAmount,
-} from 'traaittcash-wallet-backend';
+} from '@trrxitte/xte-wallet-backend';
 
 import {
     View, Text, TextInput, TouchableWithoutFeedback, FlatList, Platform,

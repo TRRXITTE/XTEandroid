@@ -4,7 +4,7 @@
 
 import React from 'react';
 
-import { WalletBackend } from 'traaittcash-wallet-backend';
+import { WalletBackend } from '@trrxitte/xte-wallet-backend';
 
 import { View, Alert } from 'react-native';
 

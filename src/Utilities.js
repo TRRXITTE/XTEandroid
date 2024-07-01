@@ -12,7 +12,7 @@ import { StackActions, NavigationActions } from 'react-navigation';
 
 import {
     validateAddresses, WalletErrorCode, validatePaymentID, prettyPrintAmount,
-} from 'traaittcash-wallet-backend';
+} from '@trrxitte/xte-wallet-backend';
 
 import * as Qs from 'query-string';
 

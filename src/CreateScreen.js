@@ -8,7 +8,7 @@ import {
     View, Text, Button, Image,
 } from 'react-native';
 
-import { WalletBackend } from 'traaittcash-wallet-backend';
+import { WalletBackend } from '@trrxitte/xte-wallet-backend';
 
 import Config from './Config';
 

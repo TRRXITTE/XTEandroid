@@ -6,7 +6,7 @@ const request = require('request-promise-native');
 
 import * as _ from 'lodash';
 
-import { Daemon } from 'traaittcash-wallet-backend';
+import { Daemon } from '@trrxitte/xte-wallet-backend';
 
 import { Alert } from 'react-native';
 
